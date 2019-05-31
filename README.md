@@ -1,7 +1,7 @@
 # Awake-Docker
 
 ### Usage:
-`docker run --rm -it tyzbit/awake de:ad:be:ef:f0:00`
+`docker run --rm -it --network host tyzbit/awake de:ad:be:ef:f0:00`
 
 
 ### Arguments:
